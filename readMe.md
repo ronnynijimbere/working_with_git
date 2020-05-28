@@ -26,4 +26,5 @@ Git Commandds
 by using git checkout footer command
 - once in the master branch, run the command below
 - git merge footer : allows the changes made in the footer branch to reflect in the master branch
+- git pull : allows you to see if the branch merges are up to date.
   
