@@ -15,3 +15,8 @@ Git Commandds
 - git commit -m '' : records a snapshot of all the files in your directory or all the added files. The -m allows us to add a message of what we have committed. When working with other teams, its important to write messages that make sense to other developers so that they know what the commit added does.
 - git remote add origin https://github.com/............. : this commands adds files to your github account
 - git push -u origin master : commits to github account.
+
+- Changes can be made to files. Once completed,
+  - git add .
+  - git commit -m "enter type of change made"
+  - git push
