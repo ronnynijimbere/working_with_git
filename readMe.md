@@ -24,4 +24,6 @@ Git Commandds
 - git branch : shows the branch that you are currently working on
 - git branch footer: new branch created & we need to switch to that branch
 by using git checkout footer command
+- once in the master branch, run the command below
+- git merge footer : allows the changes made in the footer branch to reflect in the master branch
   
