@@ -20,3 +20,8 @@ Git Commandds
   - git add .
   - git commit -m "enter type of change made"
   - git push
+
+- git branch : shows the branch that you are currently working on
+- git branch footer: new branch created & we need to switch to that branch
+by using git checkout footer command
+  
