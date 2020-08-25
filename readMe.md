@@ -1,5 +1,5 @@
 What is Git?
-- Git is essential version control technology for web developers & programmers
+- Git is an essential version control technology for web developers & programmers
 - A version control system allows you to track the history of a collection of files,
 - It supports creating different versions of this collection.
 - Each version captures a snapshot of the files at a certain point in time & allows you to switch between these version.
